@@ -9,5 +9,7 @@ tool, tool2,tool3,try.c 파일은 프로그램 실행을 확인하기위한 파�
 
 # 제작자
 컴퓨터 소프트웨어 공학과 김창호
+github.com/ho9983
 
 컴퓨터 소프트웨어 공학과 윤근철
+github.com/yoon-geun
